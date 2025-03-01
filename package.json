@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@techstark/opencv-js": "^4.10.0-release.1",
+    "@tensorflow/tfjs": "^4.22.0",
     "axios": "^1.7.9",
     "face-api.js": "^0.22.2",
     "mongoose": "^8.10.1",
